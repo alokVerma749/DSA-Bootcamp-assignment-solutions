@@ -1,11 +1,11 @@
-### Hi there, I'm Alok Verma - this repository is for community help [commclassroom][https://www.commclassroom.org/] 👋 
+### Hi there, I'm Alok Verma - this repository is for community help [commclassroom][website] 👋 
 
-[![Website](https://img.shields.io/website?label=commclassroom.org&style=for-the-badge&url=https%3A%2F%2Fcommclassroom.com)](https://commclassroom.com)
+[![Website](https://img.shields.io/website?label=commclassroom.org&style=for-the-badge&url=https%3A%2F%2Fcommclassroom.com)](https://commclassroom.org)
 [![Twitter Follow](https://img.shields.io/twitter/follow/commclassroom?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcommclassroom&screen_name=commclassroom)
 
 - 🔭 This repository has the asignment solution for the course: [DSA-Bootcamp-java][course]!
 
-## I'm a student, Developer, Teacher and learning DevOps!!
+## About myself: I'm a student, Developer, Teacher and learning DevOps!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to contribute to other open source projects
@@ -16,7 +16,6 @@
 [<img align="left" alt="commclassroom.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="commclassroom | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="commclassroom | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="commclassroom | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="commclassroom | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -32,6 +31,7 @@
 
 [<img align="left" alt="KunalKushwaha | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtubeK]
 [<img align="left" alt="kunalstwt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitterK]
+[<img align="left" alt="commclassroom | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedinK]
 
 <br />
 
@@ -70,7 +70,7 @@ OOP 7 | Collections Framework, Vector Class, Enums in Java](https://www.youtube.
 
 ➡️ [more videos...](https://www.youtube.com/c/KunalKushwaha)
 
-[website]: https://commclassroom.org
+[website]: https://www.commclassroom.org/
 [twitter]: https://twitter.com/commclassroom
 [twitterK]: https://twitter.com/kunalstwt
 [twitterme]: https://twitter.com/alok_std
@@ -79,7 +79,8 @@ OOP 7 | Collections Framework, Vector Class, Enums in Java](https://www.youtube.
 [instagram]: https://instagram.com/commclassroom
 [instagramme]: https://instagram.com/code_hostel
 [linkedin]: https://linkedin.com/in/commclassroom
-[DSAplaylist]: https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJlist=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJlist=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJlist=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
+[linkedinK]: https://www.linkedin.com/in/kunal-kushwaha/
+[DSAplaylist]: https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
+[jsplaylist]: https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
+[cssplaylist]: https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
+[reactplaylist]: https://youtube.complaylistlist=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
