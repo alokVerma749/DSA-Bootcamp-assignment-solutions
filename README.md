@@ -1,7 +1,7 @@
 ### Hi there, I'm Alok Verma - this repository is for community help [commclassroom][https://www.commclassroom.org/] 👋 
 
-[![Website](https://www.commclassroom.org/)](https://commclassroom.com)
-[![Twitter Follow](https://twitter.com/commclassroom)](https://twitter.com/commclassroom)
+[![Website](https://img.shields.io/website?label=commclassroom.com&style=for-the-badge&url=https%3A%2F%2Fcommclassroom.com)](https://commclassroom.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/commclassroom?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcommclassroom&screen_name=commclassroom)
 
 - 🔭 This repository has the asignment solution for the course: [DSA-Bootcamp-java][course]!
 
