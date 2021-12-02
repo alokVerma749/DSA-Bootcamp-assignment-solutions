@@ -21,6 +21,20 @@
 
 <br />
 
+### Connect with me:
+
+[<img align="left" alt="https://twitter.com/alok_std" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="https://www.instagram.com/code_hostel/" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Connect with Kunal Kushwaha:
+
+[<img align="left" alt="https://www.youtube.com/c/KunalKushwaha" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="https://twitter.com/kunalstwt" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -48,34 +62,13 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly - Cyber Monday Sale: Crypto 💲, Self-Taught Programmers 📚, JavaScript 🆚 React](https://www.youtube.com/watch?v=zt6uMtxrq8M)
-- [STACKr News Weekly: Quit to build a Game Studio, 10 Ways - better Developer, Move to a boring city!](https://www.youtube.com/watch?v=R_XwamGcCBQ)
-- [STACKr News Weekly: We Like Dislikes 😍, No coding tech roles 👨‍💻, Quantum attacks Crypto 🚨](https://www.youtube.com/watch?v=ByzuWuziB2A)
-- [STACKr News Weekly: Learn to code FAST ⚡, Choose a DB in 9.49 min ⌛, BEST Blog app with React ⚛](https://www.youtube.com/watch?v=KZGzo0bkiLY)
-- [Top VS Code Updates | v1.62 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=JENei5X1vzs)
+- [Linked List Interview Questions - Google, Facebook, Amazon, Microsoft, Apple, Twitter, LinkedIn](https://www.youtube.com/watch?v=70tx7KcMROc&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=41)
+- [Linked List - Singly + Doubly + Circular (Theory + Code + Implementation)!](https://www.youtube.com/watch?v=58YbpRDc4yw&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=40)
+- [#OOP #DSAwithKunal #placement
+OOP 7 | Collections Framework, Vector Class, Enums in Java](https://www.youtube.com/watch?v=9ogGan-R1pc&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=39)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/commclassroom)
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/commclassroom/portfolio-sass/issues/2) in [commclassroom/portfolio-sass](https://github.com/commclassroom/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/commclassroom/portfolio-sass/issues/2) in [commclassroom/portfolio-sass](https://github.com/commclassroom/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/commclassroom/free-developer-resources/pull/11) in [commclassroom/free-developer-resources](https://github.com/commclassroom/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/commclassroom/free-developer-resources/issues/11) in [commclassroom/free-developer-resources](https://github.com/commclassroom/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/commclassroom/free-developer-resources/pull/10) in [commclassroom/free-developer-resources](https://github.com/commclassroom/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="commclassroom's GitHub Stats" src="https://github-readme-stats.commclassroom.vercel.app/api?username=commclassroom&show_icons=true&hide_border=true" />
-
-</details>
+➡️ [more videos...](https://www.youtube.com/c/KunalKushwaha)
 
 [website]: https://commclassroom.com
 [course]: http://vsCodeHero.com
