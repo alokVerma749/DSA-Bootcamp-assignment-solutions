@@ -6,6 +6,6 @@ public class problem6 {
     public static void main(String[] args) {
 
     }
-    public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
-    }
+//    public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
+//    }
 }
